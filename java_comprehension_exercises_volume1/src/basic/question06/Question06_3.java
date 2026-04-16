@@ -28,6 +28,7 @@
 //➢ [amount]と[price]を乗算した値を出力する。 
 //購入した鉛筆の合計金額は [amount と price を乗算した値] 円です。 
 //※変数に代入せず、計算は println()の 中で行って良い package basic.question06;
+package basic.question06;
 
 import java.io.BufferedReader;
 import java.io.IOException;
